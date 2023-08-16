@@ -1,1 +1,7 @@
-/*  your css code here. If applicable */
+*{
+	background-color: skyblue;
+}
+ li{
+	width: 50%;
+	padding: 10px;
+ }
